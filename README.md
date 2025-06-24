@@ -1,1 +1,1 @@
-livw server
+live server
